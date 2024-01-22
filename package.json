@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "turl": "^1.1.2"
+  },
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saransh Bangar",
+  "license": "ISC",
+  "description": ""
+}
